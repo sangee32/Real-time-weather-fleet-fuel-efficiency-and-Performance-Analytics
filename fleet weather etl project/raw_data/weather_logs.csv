@@ -1,0 +1,6 @@
+city,date,temperature_c,windspeed_kmh,weather_condition
+Chennai,2026-11-16,30.3,16.2,Clear
+Bengaluru,2026-11-16,27.1,8.8,Clear
+Mumbai,2026-11-16,33.0,3.4,Clear
+Pune,2026-11-16,29.0,8.2,Clear
+Delhi,2026-11-16,25.2,7.8,Clear
